@@ -1,3 +1,3 @@
 # TimeDownDemo
 
-![image-20200515170247013](/Users/gaoxingfei/Library/Application Support/typora-user-images/image-20200515170247013.png)
+![screenshot](https://github.com/gxfstart/TimeDownDemo/blob/master/image/screenshot.jpg)
